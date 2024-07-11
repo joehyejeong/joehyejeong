@@ -6,8 +6,7 @@
 
 안녕하세요👋  
 **꾸준한 배움**(#)을 통해 **지속적으로 성장**(#)하는 **예비 개발자 조혜정**입니다.  
-
-<img src="./img/coding.gif" alt="Coding" height="200px" />
+<img src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F44%2Fb0%2F33%2F44b0331790c3b4abf23701636ef66239.gif&type=sc960_832_gif" alt="Coding" height="200px" />
 
 ---
 
