@@ -12,6 +12,15 @@
 
 👨🏻‍💻 Careers
 
+---
+
+🏆 Certification
+HSK
+TOEIC
+Opic
+
+---
+
 📚 Education
 
 SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~ 2025.06.) 🔗
@@ -44,6 +53,9 @@ SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~ 2025.06.) 🔗
 </td>
 </tr>
 </table>-->
+
+---
+🔍 project
 ---
 
 📚 Stack
