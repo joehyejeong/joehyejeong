@@ -64,6 +64,6 @@ SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~ 2025.06.) 🔗
 🔍 Approach
 <div>
 <a href="https://cardroid.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="mailto:carbonsindh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=carbonsindh@gmail.com"/></a>
+<a href="mailto:carbonsindh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=gpwjdwngml@gmail.com"/></a>
 </div>
 
