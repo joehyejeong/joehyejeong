@@ -12,14 +12,12 @@
 
 👨🏻‍💻 Careers
 
----
 
 🏆 Certification
-HSK
-TOEIC
-Opic
+HSK  
+TOEIC  
+Opic  
 
----
 
 📚 Education
 
