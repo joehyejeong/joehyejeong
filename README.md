@@ -10,21 +10,21 @@
 
 ---
 
-👨🏻‍💻 Careers
+**👨🏻‍💻 Careers**
 
 
-🏆 Certification
+**🏆 Certification  **
 HSK  
 TOEIC  
 Opic  
 
 
-📚 Education
+**📚 Education**
 
 SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~ 2025.06.) 🔗
 
 ---
-📊 Git stat
+**📊 Git stat**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joehyejeong)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -41,7 +41,7 @@ SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~ 2025.06.) 🔗
 </tr>
 
 ---
-🥇 Baekjoon Rank
+**🥇 Baekjoon Rank**
 <td align="center" valign="top" width="42%">
 
 
@@ -53,10 +53,10 @@ SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~ 2025.06.) 🔗
 </table>-->
 
 ---
-🔍 project
+**🔍 project**
 ---
 
-📚 Stack
+**📚 Stack**
 <div align=center> 
 
 <div>
@@ -71,7 +71,7 @@ SSAFY - 삼성 청년 SW 아카데미 12기 (2024.07. ~ 2025.06.) 🔗
   
 </div>
 
-🔍 Approach
+**🔍 Approach**
 <div>
 <a href="https://cardroid.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="mailto:carbonsindh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=gpwjdwngml@gmail.com"/></a>
